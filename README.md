@@ -41,11 +41,9 @@ Click the badge below to open the notebook directly in Colab:
 
 ---
 
-### 2. Clone the Repository
-bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+### 2. the Repository
 
+https://github.com/creator1325/WRM-1st-week-.git
 
   ✅ Requirements
 
@@ -65,4 +63,4 @@ Visualizations
 
 Muskan Yadav
 
-GitHub: @your-username
+GitHub: https://github.com/creator1325/WRM-1st-week-.git
